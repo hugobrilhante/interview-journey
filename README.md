@@ -43,6 +43,8 @@ Este repositório aborda uma variedade de algoritmos comumente encontrados em en
 </details>
 <details>
 <summary><b>Programação Dinâmica (Dynamic Programming)</b></summary>
+
+- [Best Time to Buy and Sell Stock](dynamic_programming/best_time_to_buy_and_sell_stock.md)
 </details>
 <details>
 <summary><b>Guloso (Greedy)</b></summary>

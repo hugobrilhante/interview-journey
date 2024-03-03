@@ -63,7 +63,7 @@ Cada tópico inclui exemplos práticos e explicações detalhadas para ajudá-lo
 
 ## Contribuições
 
-Contribuições para este repositório são muito bem-vindas! Se você encontrar qualquer erro, ou deseja adicionar recursos adicionais, sinta-se à vontade para contribuir. Juntos, podemos tornar este recurso ainda mais valioso para a comunidade de desenvolvimento.
+Contribuições para este repositório são muito bem-vindas siga as instruções [aqui](CONTRIBUTING.md)! Se você encontrar qualquer erro, ou deseja adicionar recursos adicionais, sinta-se à vontade para contribuir. Juntos, podemos tornar este recurso ainda mais valioso para a comunidade de desenvolvimento.
 
 ## Nota sobre o Conteúdo
 

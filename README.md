@@ -27,7 +27,32 @@ Este repositório aborda uma variedade de algoritmos comumente encontrados em en
 <details>
 <summary><b>Two Pointers</b></summary>
 
-- [Trapping Rain Water](two_pointers%2Ftrapping_rain_water.md)
+| Número | Algoritmo                                                  | Dificuldade | Concluído |
+|--------|------------------------------------------------------------|:-----------:|:---------:|
+| 1      | [Trapping Rain Water](two_pointers/trapping_rain_water.md) |   Difícil   |     ✅     |
+| 2      | 3Sum                                                       |    Média    |     ❌     |
+| 3      | Container With Most Water                                  |    Média    |     ❌     |
+| 4      | Next Permutation                                           |    Média    |     ❌     |
+| 5      | Palindrome Linked List                                     |    Fácil    |     ❌     |
+| 6      | Meeting Rooms II                                           |    Média    |     ❌     |
+| 7      | Remove Duplicates from Sorted Array                        |    Fácil    |     ❌     |
+| 8      | Find Median from Data Stream                               |   Difícil   |     ❌     |
+| 9      | 4Sum                                                       |    Média    |     ❌     |
+| 10     | Rotate Array                                               |    Média    |     ❌     |
+| 11     | Move Zeroes                                                |    Fácil    |     ❌     |
+| 12     | Permutation in String                                      |    Média    |     ❌     |
+| 13     | String Compression                                         |    Média    |     ❌     |
+| 14     | Boats to Save People                                       |    Média    |     ❌     |
+| 15     | Happy Number                                               |    Fácil    |     ❌     |
+| 16     | Middle of the Linked List                                  |    Fácil    |     ❌     |
+| 17     | Find the Duplicate Number                                  |    Média    |     ❌     |
+| 18     | Valid Palindrome                                           |    Fácil    |     ❌     |
+| 19     | Dot Product of Two Sparse Vectors                          |    Média    |     ❌     |
+| 20     | Sort Colors                                                |    Média    |     ❌     |
+| 21     | Reverse Words in a String                                  |    Média    |     ❌     |
+| 22     | Intersection of Two Arrays                                 |    Fácil    |     ❌     |
+| 23     | Merge Sorted Array                                         |    Fácil    |     ❌     |
+| 24     | Reorder List                                               |    Média    |     ❌     |
 </details>
 <details>
 <summary><b>Backtracking</b></summary>

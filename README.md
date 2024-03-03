@@ -69,7 +69,56 @@ Este repositório aborda uma variedade de algoritmos comumente encontrados em en
 <details>
 <summary><b>Programação Dinâmica (Dynamic Programming)</b></summary>
 
-- [Best Time to Buy and Sell Stock](dynamic_programming/best_time_to_buy_and_sell_stock.md)
+| Número | Algoritmo                                                                                 | Dificuldade | Concluído |
+|--------|-------------------------------------------------------------------------------------------|:-----------:|:---------:|
+| 1      | Longest Palindromic Substring                                                             |    Média    |     ❌     |
+| 2      | [Best Time to Buy and Sell Stock](dynamic_programming/best_time_to_buy_and_sell_stock.md) |    Fácil    |     ✅     |
+| 3      | Maximum Subarray                                                                          |    Fácil    |     ❌     |
+| 4      | Flip String to Monotone Increasing                                                        |    Média    |     ❌     |
+| 5      | Generate Parentheses                                                                      |    Média    |     ❌     |
+| 6      | Climbing Stairs                                                                           |    Fácil    |     ❌     |
+| 7      | House Robber                                                                              |    Média    |     ❌     |
+| 8      | Best Team With No Conflicts                                                               |   Difícil   |     ❌     |
+| 9      | Sum of Distances in Tree                                                                  |   Difícil   |     ❌     |
+| 10     | Maximum Sum Circular Subarray                                                             |    Média    |     ❌     |
+| 11     | Maximum Profit in Job Scheduling                                                          |    Média    |     ❌     |
+| 12     | Sum of Subarray Minimums                                                                  |   Difícil   |     ❌     |
+| 13     | Concatenated Words                                                                        |   Difícil   |     ❌     |
+| 14     | Number of Ways of Cutting a Pizza                                                         |   Difícil   |     ❌     |
+| 15     | Domino and Tromino Tiling                                                                 |   Difícil   |     ❌     |
+| 16     | Substring With Largest Variance                                                           |   Difícil   |     ❌     |
+| 17     | Minimize Maximum of Array                                                                 |   Difícil   |     ❌     |
+| 18     | Perfect Squares                                                                           |    Média    |     ❌     |
+| 19     | Pascal's Triangle                                                                         |    Fácil    |     ❌     |
+| 20     | Jump Game                                                                                 |    Média    |     ❌     |
+| 21     | Jump Game II                                                                              |   Difícil   |     ❌     |
+| 22     | Palindrome Partitioning                                                                   |    Média    |     ❌     |
+| 23     | Edit Distance                                                                             |    Média    |     ❌     |
+| 24     | Arithmetic Slices II - Subsequence                                                        |   Difícil   |     ❌     |
+| 25     | Coin Change                                                                               |    Média    |     ❌     |
+| 26     | As Far from Land as Possible                                                              |    Média    |     ❌     |
+| 27     | Longest Palindromic Subsequence                                                           |    Média    |     ❌     |
+| 28     | Binary Tree Maximum Path Sum                                                              |    Média    |     ❌     |
+| 29     | Number of Ways to Form a Target String Given a Dictionary                                 |    Média    |     ❌     |
+| 30     | Rotate Function                                                                           |    Média    |     ❌     |
+| 31     | Partition Array Into Two Arrays to Minimize Sum Difference                                |    Média    |     ❌     |
+| 32     | Longest Common Subsequence                                                                |    Média    |     ❌     |
+| 33     | Word Break Il                                                                             |    Média    |     ❌     |
+| 34     | Maximum Number of Non-overlapping Palindrome Substrings                                   |    Média    |     ❌     |
+| 35     | Fibonacci Number                                                                          |    Fácil    |     ❌     |
+| 36     | Remove Boxes                                                                              |   Difícil   |     ❌     |
+| 37     | Minimum Cost For Tickets                                                                  |    Média    |     ❌     |
+| 38     | Count Different Palindromic Subsequences                                                  |    Média    |     ❌     |
+| 39     | Where Will the Ball Fall                                                                  |    Média    |     ❌     |
+| 40     | Longest Valid Parentheses                                                                 |    Média    |     ❌     |
+| 41     | Minimum Difference in Sums After Removal of Elements                                      |   Difícil   |     ❌     |
+| 42     | Minimum Path Sum                                                                          |    Média    |     ❌     |
+| 43     | Split Array Largest Sum                                                                   |    Média    |     ❌     |
+| 44     | Frog Jump                                                                                 |    Média    |     ❌     |
+| 45     | Regular Expression Matching                                                               |   Difícil   |     ❌     |
+| 46     | Best Time to Buy and Sell Stock with Cooldown                                             |   Difícil   |     ❌     |
+| 47     | Maximum Product Subarray                                                                  |    Média    |     ❌     |
+| 48     | Cheapest Flights Within K Stops                                                           |   Difícil   |     ❌     |
 </details>
 <details>
 <summary><b>Guloso (Greedy)</b></summary>
